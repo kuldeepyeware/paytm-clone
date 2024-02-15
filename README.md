@@ -5,7 +5,7 @@
   <p align="center">A Simple Paytm clone is created to learn about React and Tailwind CSS
     <br />
     <br />
-    <a href="">View Deployed Project</a>
+    <a href="https://paytm-clone-nine-sigma.vercel.app/">View Deployed Project</a>
   </p>
 </div>
 
